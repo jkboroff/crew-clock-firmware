@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/jkboroff/crew-clock-firmware/main/firmware/1.0.1.bin",
-  "size": 1217904,
-  "sha256": "b297dd2f86d72aa20d23bb9676a8fac5e40ada7382b83a0b21730e954d922805",
-  "sig": "MEYCIQCIFYd62VL2GebyMRVrGBbI/hf6P6TM45j4X96RPOC/cwIhAK34coUmBNcsEAvzrPvGhWjZqvuFbcL9y8lcpSk3CkzH"
+  "version": "1.0.2",
+  "url": "https://raw.githubusercontent.com/jkboroff/crew-clock-firmware/main/firmware/1.0.2.bin",
+  "size": 1218576,
+  "sha256": "813f4f20e8b03b19523b2b542b7a872f89467964b780d1a9ce6f82928a9d375d",
+  "sig": "MEUCIDqNA7xTcVLLHupZCu9lKwgYNKyoP8LxPtnUNY3KivrsAiEAuVmfdg14UQ6Gq09ErYuRG7puvv2PIz+IhSjmaS2vfR4="
 }
