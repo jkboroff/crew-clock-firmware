@@ -1,0 +1,17 @@
+{
+  "name": "Crew Countdown Clock",
+  "version": "1.0.3",
+  "new_install_prompt_erase": false,
+  "new_install_improv_wait_time": 0,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "firmware/1.0.3-full.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
